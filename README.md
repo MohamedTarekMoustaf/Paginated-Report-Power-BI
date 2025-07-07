@@ -12,17 +12,17 @@ Purpose: To visualize and communicate insights from a structured survey dataset 
 
 🧩 Key Features
 ✅ Reports Created
-Automatic Final Project Report
+1. Automatic Final Project Report
 
-Auto-generated summary insights and graphs.
+2. Auto-generated summary insights and graphs.
 
-Final Project
+3. Final Project
 
-Custom visuals for age, job title, and salary metrics.
+4. Custom visuals for age, job title, and salary metrics.
 
-Paginated_Report_Final_Project
+5. Paginated_Report_Final_Project
 
-Tabular printable report for easy distribution.
+6. Tabular printable report for easy distribution.
 
 
 ![Paginated_Report1 Preview](Paginated_Report1.png)
