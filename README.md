@@ -64,5 +64,5 @@ Automatic_Final_Project_Report	Report	Mohamed M.
 Paginated_Report_Final_Project	Paginated Report	Mohamed M.
 Final_Project (Semantic Model)	Dataset Model	Mohamed M.
 
-![Dashboard Preview](Dashboard.png)
+![Paginated_Report1 Preview](Paginated_Report1.png)
 
