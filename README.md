@@ -6,6 +6,7 @@ This project leverages Microsoft Power BI to analyze a professional survey focus
  
 ![Paginated_Report1 Preview](Paginated_Report1.png)
 2. Data Source: “Data Professional Survey” dataset
+
 3. Tools Used: Reports, Paginated Reports, Semantic Models, and Dashboards
  
 ![Paginated_Report2 Preview](Paginated_Report2.png)
