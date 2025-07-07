@@ -3,10 +3,12 @@ This project leverages Microsoft Power BI to analyze a professional survey focus
 
 🚀 Project Summary
 1. Platform: Microsoft Power BI (Cloud Service)
+2. 
 ![Paginated_Report1 Preview](Paginated_Report1.png)
-2. Data Source: “Data Professional Survey” dataset
+3. Data Source: “Data Professional Survey” dataset
 
-3. Tools Used: Reports, Paginated Reports, Semantic Models, and Dashboards
+4. Tools Used: Reports, Paginated Reports, Semantic Models, and Dashboards
+5. 
 ![Paginated_Report2 Preview](Paginated_Report2.png)
 Purpose: To visualize and communicate insights from a structured survey dataset through dynamic, interactive dashboards.
 
